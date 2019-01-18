@@ -1,4 +1,4 @@
-obj-m +=mouseAutomove.o
+obj-m +=keyboardMouseController.o
 
 KDIR = /usr/src/linux-headers-4.4.0-116-generic
 
